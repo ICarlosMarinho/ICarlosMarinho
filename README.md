@@ -12,6 +12,7 @@ Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música
 ![editor](https://img.shields.io/badge/Editor-VSCode-purple?style=flat&logo=visualstudio&logoColor=white)
 ![desing](https://img.shields.io/badge/Design-Figma-purple?style=flat&logo=figma&logoColor=white)
 ![desing](https://img.shields.io/badge/Code-GIT-purple?style=flat&logo=git&logoColor=white)
+![desing](https://img.shields.io/badge/Code-Github-purple?style=flat&logo=github&logoColor=white)
 ![language](https://img.shields.io/badge/Code-JavaScript-purple?style=flat&logo=javascript&logoColor=white)
 ![language](https://img.shields.io/badge/Code-TypeScript-purple?style=flat&logo=typescript&logoColor=white)
 ![language](https://img.shields.io/badge/Code-Node-purple?style=flat&logo=node.js&logoColor=white)
@@ -24,11 +25,12 @@ Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música
 
 
 
-# :chart_with_upwards_trend: Alguns Números
+# :chart_with_upwards_trend: Github Stats
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICarlosMarinho&show_icons=true&title_color=f0433a&icon_color=f0433a&text_color=fff&bg_color=90,31152b,540032,820333&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICarlosMarinho&title_color=f0433a&text_color=fff&bg_color=90,31152b,540032,820333&locale=pt-br&layout=compact&exclude_repo=bowsers-revenge)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-evenly;">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ICarlosMarinho&show_icons=true&title_color=f0433a&icon_color=f0433a&text_color=fff&bg_color=90,31152b,540032,820333&locale=pt-br">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ICarlosMarinho&title_color=f0433a&text_color=fff&bg_color=90,31152b,540032,820333&locale=pt-br&layout=compact&exclude_repo=bowsers-revenge">
+</div>
 
 
 
