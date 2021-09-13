@@ -6,7 +6,7 @@ Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música
 
 
 
-# :hammer_and_wrench: Tecnologias e ferramentas
+# :hammer_and_wrench: Tecnologias e Ferramentas
 
 ![os](https://img.shields.io/badge/OS-Linux-purple?style=flat&logo=linux&logoColor=white)
 ![editor](https://img.shields.io/badge/Editor-VSCode-purple?style=flat&logo=visualstudio&logoColor=white)
@@ -24,7 +24,7 @@ Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música
 
 
 
-# :chart_with_upwards_trend: Alguns números
+# :chart_with_upwards_trend: Alguns Números
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICarlosMarinho&show_icons=true&title_color=f0433a&icon_color=f0433a&text_color=fff&bg_color=90,31152b,540032,820333&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,7 +32,7 @@ Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música
 
 
 
-# :mag_right: Como me encontrar
+# :mag_right: Como Me Encontrar
 
 [![linkedin](https://img.shields.io/badge/Linkedin-purple?style=flat&logo=linkedin&logoColor=white&ogoWidth=40)](https://www.linkedin.com/in/carloshmarinho/)
 [![twitter](https://img.shields.io/badge/Twitter-purple?style=flat&logo=twitter&logoColor=white&ogoWidth=40)](https://twitter.com/CarlosMarinh0o)
