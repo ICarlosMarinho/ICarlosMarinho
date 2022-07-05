@@ -2,7 +2,7 @@
 
 # :slightly_smiling_face: Olá!  
 
-Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música e ilustração. Atualmente estou buscando minha primeira experiência em desenvolvimento web (mais especificamente no *frontend*) e venho estudando tecnologias como HTML, CSS, JavaScript, React e GIT.
+Meu nome é Carlos Henrique Marinho. Gosto de tecnologia, games antigos, música e ilustração. Atualmente estou estudando tecnologias como HTML, CSS, JavaScript, React e GIT.
 
 
 
